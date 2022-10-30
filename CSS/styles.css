@@ -242,3 +242,7 @@ hr {
   font-family: Mahone Sans;
   font-size: 1.5rem;
 }
+
+a{
+  text-decoration: none;
+}
